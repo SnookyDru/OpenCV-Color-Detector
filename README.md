@@ -19,7 +19,7 @@ pip install opencv-python Pillow
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/opencv-color-object-tracking.git
+git clone [https://github.com/your-username/opencv-color-object-tracking.git](https://github.com/SnookyDru/OpenCV-Color-Detector.git)
 ```
 
 2. Navigate to the project directory:
